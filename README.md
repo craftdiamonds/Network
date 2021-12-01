@@ -1,4 +1,4 @@
-# imdm-network
+# Network
 Interaction Project for IMDM127
 
 
